@@ -1,0 +1,2005 @@
+
+Details of users in a tabular form
+
+User ID		Account ID	Display Name
+22656		11683		Jon Skeet
+157882		52822		BalusC
+6309		4243		VonC
+29407		14332		Darin Dimitrov
+17034		9266		Hans Passant
+23354		11975		Marc Gravell
+1144035		1165580		Gordon Linoff
+115145		39846		CommonsWare
+100297		35417		Martijn Pieters
+157247		52616		T.J. Crowder
+34397		15988		SLaks
+893		680		Greg Hewgill
+19068		10162		Quentin
+14860		8291		paxdiablo
+95810		34048		Alex Martelli
+335858		134022		dasblinkenlight
+5445		3748		CMS
+61974		24377		Mark Byers
+20862		10930		Ignacio Vazquez-Abrams
+13302		7633		marc_s
+23283		11948		JaredPar
+15168		8423		Jonathan Leffler
+69083		26521		Guffa
+218196		76141		Felix Kling
+190597		64585		unutbu
+88656		32093		Eric Lippert
+571407		277416		JB Nizet
+13249		7598		Nick Craver
+548225		262968		anubhava
+106224		37175		BoltClock
+139985		47283		Stephen C
+505088		237126		David Heffernan
+19563		10375		CB Bailey
+53114		21746		Gumbo
+18393		9867		cletus
+203907		70258		Bozho
+70604		26957		Pascal Thivent
+65358		25430		Reed Copsey
+104349		36572		Daniel Roseman
+57695		23121		Peter Lawrey
+18936		10108		bobince
+816620		432092		jfriend00
+1491895		1613587		Barmar
+12950		7448		tvanfosson
+3732271		4601727		akrun
+1583		1190		Oded
+34509		16029		Johannes Schaub - litb
+224671		79153		kennytm
+1187415		1220712		Martin R
+1968		1475		Konrad Rudolph
+476		378		deceze
+179910		60200		Jerry Coffin
+922184		559988		Mysticial
+16417		8983		Paolo Bergantino
+20860		10929		Bill Karwin
+1048572		1042959		Bergi
+9021		5559		nickf
+596781		293472		Kerrek SB
+284240		106749		Rango
+9951		6018		e-satis
+187606		63368		Pekka 웃
+148870		49939		Amber
+279627		104636		Sven Marnach
+367273		152622		NPE
+479863		221717		mu is too short
+227665		80529		codaddict
+939860		904738		Erwin Brandstetter
+73226		27657		Martin Smith
+33708		15778		Mehrdad Afshari
+50079		20816		Jon
+27535		13638		gbn
+2901002		3465245		jezrael
+31671		15143		alex
+21234		11089		skaffman
+65863		25589		Remy Lebeau
+138475		46833		Pascal MARTIN
+119963		41301		Cascabel
+55159		22397		Quassnoi
+341994		137658		matt
+217408		879403		G&#252;nter Z&#246;chbauer
+771848		403854		alecxe
+276052		102965		aioobe
+413501		180279		Ladislav Mrnka
+114251		39580		Arun P Johny
+28169		13903		unwind
+3832970		4739783		Wiktor Stribiżew
+10661		6358		S.Lott
+182668		61252		Pointy
+118068		40721		Marc B
+3043		2212		Joel Coehoorn
+9530		5807		Adam Rosenfield
+1271826		1327250		Rob
+139459		47126		Sarfraz
+330315		130792		a_horse_with_no_name
+440558		196869		Some programmer dude
+87234		31692		GManNickG
+992484		969721		MadProgrammer
+256196		93689		Bohemian
+149392		50123		sepp2k
+70393		26897		karim79
+16883		9193		Michael Borgwardt
+77567		28897		rob mayoff
+1288		970		Bill the Lizard
+215945		75262		Mark Rajcok
+223092		78362		Mark Longair
+2988		2172		J&#246;rg W Mittag
+560648		270599		Lightness Races in Orbit
+267		213		Lasse V&#229;gs&#230;ther Karlsen
+28804		14130		mipadi
+734069		380209		Nicol Bolas
+151292		50706		James McNellis
+1221571		1263831		Eran
+276101		102991		polygenelubricants
+263693		97153		Stephen Cleary
+12711		7335		Michael Burr
+139010		46972		Matt Ball
+166749		55665		Fred Foo
+143305		48260		Dirk Eddelbuettel
+263525		97082		Denys S&#233;guret
+34211		15935		Andrew Hare
+104891		36734		CrazyCoder
+85371		31164		sehe
+131872		44852		camickr
+6782		4495		Alnitak
+222908		78284		Daniel Vassallo
+95592		33990		Matthew Rankin
+938089		902274		Rob W
+37213		16878		duffymo
+605744		299251		Tomasz Nurkiewicz
+4279		3021		jfs
+73070		27626		Joey
+94197		33608		Andy E
+501557		235018		templatetypedef
+589924		289134		ikegami
+208809		72299		Gordon
+965051		936155		adeneo
+207421		71739		user207421
+522444		247613		Hovercraft Full Of Eels
+113716		39431		user113716
+187690		63402		AnT
+14343		8083		Ned Batchelder
+18771		10030		Tomalak
+135152		45798		OMG Ponies
+507674		238644		Niet the Dark Absol
+24181		12317		Greg
+16076		8834		Mitch Wheat
+53013		21713		Daniel C. Sobral
+908494		808621		abarnert
+1126841		1143565		chepner
+3153		2279		Brian R. Bondy
+415784		181638		Nawaz
+96100		34120		Tim Down
+20670		10843		Tim Pietzcker
+2225682		176857		falsetru
+829571		440158		assylias
+34088		15903		Aaron Digulla
+519413		245734		Rory McCrossan
+105929		37082		Remus Rusanu
+68587		26377		John Kugelman
+1226963		1270581		rmaddy
+6521		4365		Paul Dixon
+26428		13225		Dennis Williamson
+298479		113304		ThiefMaster
+75170		28214		John Feminella
+209103		72426		Frank van Puffelen
+40342		17835		Joachim Sauer
+98713		34908		Thomas Levesque
+103167		36215		Ben Voigt
+69755		26707		Brian Campbell
+13005		7470		Steve Jessop
+342852		138128		Sean Patrick Floyd
+1863229		2094057		Tim Biegeleisen
+115730		40014		Dave DeLong
+12960		7450		Brian Agnew
+129570		44195		Oliver Charlesworth
+541091		258733		Michael Berkowski
+5987		4060		Mark Ransom
+54680		22243		Sampson
+405017		175180		Phrogz
+3474		2496		erickson
+131527		44762		ghostdog74
+47773		20130		Matthew Flaschen
+7432		4815		Bryan Oakley
+526535		250063		manojlds
+204847		70736		Mike Seymour
+46058		19605		Jakub Narębski
+1855677		58121		42-
+216074		75311		poke
+174728		58364		John La Rooy
+487339		226344		DSM
+36305		16586		Dimitre Novatchev
+748858		314979		mgilson
+1259510		1311620		JohnnyHK
+438154		195331		Sotirios Delimanolis
+315935		122241		Oleg
+61305		24165		Aaron Bertrand
+464709		212100		Fr&#233;d&#233;ric Hamidi
+60761		24018		Henk Holterman
+84651		30940		Justin Niessner
+464744		212122		Blender
+3681880		4531600		Suragch
+33213		15628		jalf
+491243		228742		John Woo
+55847		22580		LukeH
+103154		36208		axtavt
+5190		3591		Vinko Vrsalovic
+147192		49441		Matthieu M.
+82548		30300		David Thomas
+97337		34424		Rob Napier
+50742		21006		Chuck
+535871		255665		Ted Hopp
+260990		95910		Jigar Joshi
+33518		15728		Tomas Petricek
+21886		11369		RichieHindle
+35070		16209		phihag
+14065		7972		Martin York
+673730		342531		Luchian Grigore
+398670		171331		Craig Ringer
+12855		7405		SilentGhost
+15498		8564		Damien_The_Unbeliever
+14955		8326		Thilo
+45914		19555		jason
+1256452		1307867		torek
+366904		152400		Cody Gray
+171456		57246		Zim
+827263		438773		Keith Thompson
+7412		4804		dogbane
+50552		20961		Andomar
+134633		45644		caf
+8985		5546		Ryan McGeary
+426671		188123		Taryn
+251311		91548		zerkms
+1348195		1424245		Benjamin Gruenbaum
+1447675		1556832		Nina Scholz
+661519		334826		juanchopanza
+10397		6228		Justin Cave
+470005		215377		Sergey Berezovskiy
+24874		12585		Drew Noakes
+230513		81822		trashgod
+1240268		515061		Andy Hayden
+1774667		1977123		Yakk - Adam Nevraumont
+405015		175179		thirtydot
+250259		91055		John Conde
+417562		182678		lonesomeday
+2422776		2818342		Mureinik
+126014		43160		Mark Seemann
+126042		43171		Mark Rushakoff
+113962		39506		Alasdair
+2069064		2362723		Barry
+13		9		Chris Jester-Young
+87015		31629		Salman A
+325565		128012		Joe Kington
+125816		43105		Sergio Tulentsev
+961113		931267		Habib
+1197518		1233392		Steve
+229044		81168		meagar
+201359		69149		&#211;scar L&#243;pez
+324584		127435		Mark Baker
+2380830		2764833		Bathsheba
+704848		735810		EdChum
+14122		8002		Charles Duffy
+841108		447475		Basile Starynkevitch
+541136		258754		Aaron Hall
+458193		207994		Dan Abramov
+1159478		1185389		Servy
+846892		451158		Ashwini Chaudhary
+253056		92315		Paul R
+36723		16719		bdonlan
+1386886		116298		jAndy
+126769		43373		nos
+116908		40342		Carl Norum
+41071		18071		svick
+36565		16669		David Rodr&#237;guez - dribeas
+116		97		Mark Harrison
+1705598		1886487		icza
+76217		28507		dtb
+244296		88286		Cristian
+1560062		97791		zero323
+1983854		2251762		fedorqui
+707111		363391		Ry-
+7552		4879		glenn jackman
+206403		71329		Rocket Hazmat
+2711488		3211603		Holger
+8206		5176		Eli Bendersky
+434551		193060		R Sahu
+1679863		1853886		Rohit Jain
+56338		22723		sth
+616443		305983		j08691
+140719		47491		sbi
+949476		916860		dfsq
+635608		318397		Mat
+1903116		1219964		thefourtheye
+452307		204230		Alok Save
+252000		91845		fredoverflow
+41661		18251		Norman Ramsey
+615		473		Matt Hamilton
+674039		342731		wim
+17516		9467		AnthonyWJones
+1427416		1530005		BrenBarn
+46642		19779		R. Martinho Fernandes
+1011995		996105		Daniel Fischer
+19679		10416		Brad Larson
+575376		279943		juergen d
+1529630		1661400		Oriol
+367456		152743		hakre
+137350		46469		Vladimir
+1030675		1020072		choroba
+2336654		2707337		piRSquared
+3293881		3996536		Divakar
+3560		2550		John Millikin
+155423		879267		Shepmaster
+379897		160089		R..
+654031		330111		Chris Pratt
+5486		3774		Ryan Lundy
+2680216		3171311		Josh Crozier
+13531		7745		Michael Myers
+3171		2288		Dave Webb
+25646		12903		bbum
+87189		31679		tadman
+2357112		2734060		user2357112
+43089		18698		Triptych
+75525		28301		Fenton
+1566221		1707439		rici
+825568		437729		Joseph Silber
+17160		9315		nosklo
+1199		914		Blair Conrad
+82294		30228		Dietrich Epp
+20713		10864		ephemient
+2970947		3557625		Elliott Frisch
+135589		45934		Jesper
+1270695		1325902		A5C1D2H2I1M1N2O1R2T1
+3597276		4415543		Michael_B
+14104		7991		epascarello
+4323		3057		John Zwinck
+418556		183279		Andrew Thompson
+320615		125080		Dogbert
+112968		39208		knittl
+2587435		3013228		Paul Samsotha
+1084437		1089467		Jukka K. Korpela
+5044042		6519311		vadian
+128165		43788		Gabriele Petrioli
+516548		244009		G. Grothendieck
+47738		20122		rahul
+1707091		1888343		rgettman
+989121		965649		georg
+454533		205662		Explosion Pills
+247533		89797		Rex Kerr
+193688		65923		Chris Johnsen
+67579		26078		Willem Van Onsem
+23528		12046		Daniel A. White
+328193		129540		David
+82187		30194		Adam Robinson
+102937		36137		Robert Harvey
+582		455		Lily Ballard
+270591		100362		Slauma
+149341		50108		duskwuff
+76337		28542		John Saunders
+1103872		1114067		Marko Topolnik
+869736		465573		Louis Wasserman
+40521		17899		Shyju
+714501		367982		cnicutar
+123527		42403		Simone Carletti
+1873365		360090		Thierry Templier
+505154		237172		Andrew Clark
+33732		15786		Rob Kennedy
+164835		55050		Kent
+5380		3706		Kent Boogaart
+1338292		1411857		Ja͢ck
+9990		6040		Marcelo Cantos
+122718		42143		usr
+895245		481416		Ciro Santilli 新疆改造中心 六四事件 法轮功
+1630171		1436014		Ansgar Wiechers
+153982		51529		Keith Hill
+152948		51201		hobbs
+20654		10836		OscarRyz
+576911		280919		Howard Hinnant
+477878		220462		Joachim Isaksson
+3297613		3438751		Avinash Raj
+1902010		1705		ceejayoz
+2189127		2518243		James_D
+871026		794766		Reimeus
+95706		34021		Dan Moulding
+3333		2397		Paul Tomblin
+352765		144015		Spudley
+438992		195854		Dave Newton
+246342		89244		Alex K.
+145190		48823		meder omuraliev
+271616		100841		Joshua Ulrich
+390330		166301		basarat
+634824		317896		Matt Johnson
+338665		135652		ircmaxell
+1175966		1206451		charlietfl
+40347		17837		Dirk Vollmar
+572644		278193		Daniel Hilgarth
+314488		121415		Pranay Rana
+790695		415723		James Allardice
+893780		796162		robertklep
+721269		372293		David Schwartz
+92315		33084		Fabien M&#233;nager
+572670		278210		amit
+602276		296999		Andrie
+429846		190102		Gavin Simpson
+4124317		5149286		ImportanceOfBeingErnest
+11654		6852		CL.
+39430		17566		RedFilter
+17172		9320		coobird
+1001643		982175		Raymond Hettinger
+128421		43866		the Tin Man
+2303865		2665245		Leo Dabus
+324364		127300		joran
+220819		77343		Jacob Relkin
+521799		247217		Lukas Eder
+48082		20213		Cheeso
+4909087		6321039		coldspeed
+67606		26091		Pablo Santa Cruz
+190277		64461		Ben Bolker
+329769		130472		BrokenGlass
+15416		8519		MSalters
+2141635		2456564		Padraic Cunningham
+419970		184122		Raynos
+45375		19375		mklement0
+762073		397763		xdazz
+462627		210807		Praveen Kumar Purushothaman
+58808		23460		Ionuț G. Stan
+813602		430261		Ingo Karkat
+6509		4358		tim_yates
+1782465		1980316		Angew
+524368		248772		datenwolf
+266304		98359		Alex Poole
+62082		24421		Michelle Tilley
+144424		48586		Adriaan Stander
+93623		33439		Fredrik M&#246;rk
+50476		20937		Bart Kiers
+825		631		Pat Notz
+140750		47502		William Pursell
+113570		39392		Philippe Leybaert
+497418		232525		zzzzBov
+240443		86477		Amadan
+314166		121224		sawa
+981959		956801		Jonathan Wakely
+4883		3385		Readonly
+383861		162425		Blaise Doughan
+243782		88036		Pentium10
+89391		32277		miku
+449449		202404		eumiro
+224132		78868		Peter Cordes
+48015		20189		Christoph
+649665		327343		James Kanze
+811		620		Shog9
+501696		235103		Blackbelt
+546861		262175		romainl
+416467		182043		kindall
+394487		168805		siride
+4668		3253		Alan Storm
+980833		955440		Josh O&#39;Brien
+541686		259071		Mehrdad
+1501794		1626304		Rahul Tripathi
+83805		30694		Don Stewart
+264697		97618		Steven
+383904		162448		Roko C. Buljan
+1204143		1241689		nneonneo
+15055		8372		Claudiu
+993547		970966		Patrick Hofman
+5459839		7142980		trincot
+1210329		1249654		geocodezip
+978917		953149		ruakh
+4725		3282		Tom Hawtin - tackline
+1708801		1637842		Shafik Yaghmour
+1298762		1361483		Adil
+1120273		1135055		Dietmar K&#252;hl
+4983450		6429765		Psidom
+166339		55539		Asaph
+116862		40325		Ole Begemann
+50617		20975		Employed Russian
+813		622		Jeremy Ruten
+345031		139435		mario
+98117		34703		hammar
+65387		25438		mpen
+851273		453984		Jon Lin
+848164		451984		undefined
+1081897		1086250		D Stanley
+1749403		1943836		Sajeetharan
+790387		415531		Burhan Khalid
+464581		212018		Cheers and hth. - Alf
+91299		32807		RRUZ
+615754		305540		nnnnnn
+87698		31816		Heinzi
+298661		113401		Puppy
+5741205		7565400		MaxU
+872395		467192		nemesv
+140740		47499		DigitalRoss
+2372064		2753188		MrFlick
+2648		1921		D&#243;nal
+13627		7784		driis
+1119701		1134300		ouah
+1694		1273		Eli Courtwright
+57428		23033		sharptooth
+546730		262097		H.B.
+12597		7281		Ian Boyd
+142162		47921		Tim Cooper
+12870		7412		Oli
+67		55		Rex M
+141172		47622		Eric J.
+152602		51103		Lee
+745		579		dbr
+425275		187317		Šime Vidas
+146325		49167		APC
+622310		309711		Borodin
+19750		10450		Josh Lee
+995876		973998		Esailija
+259038		95021		Josh David Miller
+7714		4957		Craig Stuntz
+1542290		1677009		Mr. Alien
+85785		31281		mythz
+147356		49492		larsks
+1715579		1899397		p.s.w.g
+653856		330005		Raghunandan
+1668533		1838666		Satpal
+309308		118337		Michael Mrozek
+165737		55352		Anurag
+2684539		3176925		Jarod42
+5233410		6799630		Nkosi
+871050		466356		Madara Uchiha
+91		75		Michael Stum
+464988		212263		MByD
+8747		5436		Robᵩ
+334519		133275		Travis Brown
+1140579		1161105		Siddharth Rout
+52738		21633		gnovice
+101361		35743		laalto
+569436		276160		Mikael Eriksson
+1090562		1097219		Salvador Dali
+7964527		10829702		Wen-Ben
+362536		149787		Brad
+1870803		2103982		Yuval Itzchakov
+97160		34382		Amro
+901925		485561		hpaulj
+135978		46065		Sean Vieira
+59303		23619		ChrisF
+500584		234440		agf
+1202025		1238981		ρяσѕρєя K
+1965		1472		FlySwat
+1057		809		Harley Holcombe
+2688		1955		bdukes
+772035		403973		Paulpro
+1109		846		Theo
+567292		274825		ecatmur
+44389		19078		Noldorin
+642706		322981		Basil Bourque
+14637		8198		Thomas
+716216		369056		Mick MacCallum
+2435473		2834642		Pankaj Parkar
+32632		15446		Charles Bretana
+321697		125727		kcoppock
+6819		4511		Darrel Miller
+561731		271284		Neal
+1418796		1518373		pkozlowski.opensource
+514749		242908		pimvdb
+1988185		2257258		Wain
+65696		25542		SingleNegationElimination
+126214		43211		Lennart Regebro
+1009603		992844		PSL
+252228		91947		Martin Honnen
+1249581		1299340		VisioN
+1228		936		Will
+741747		384920		The Alpha
+740		574		SQLMenace
+1155209		1180113		jewelsea
+266795		98601		Peter Lyons
+594420		291959		RP Niemeyer
+69545		26645		Rainer Joswig
+341251		137214		Joe Stefanelli
+1745001		1938048		Ed Morton
+24545		12462		Yuval Adam
+415448		529122		Michael Kay
+584518		285695		Lundin
+4249		3001		matt b
+501250		234840		cdhowie
+153285		51309		Potatoswatter
+2173917		2497975		Sourav Ghosh
+42346		18469		bernie
+121747		41850		Jack
+1919155		2166051		Mats Petersson
+643383		323395		Caleb
+2555451		3012257		iCodez
+601179		296299		gdoron
+2319407		2684795		Dmitry Bychenko
+266143		98281		CodeCaster
+783119		410966		LazyOne
+1163867		1191103		MarcinJuraszek
+9204		5645		Alexey Romanov
+120955		41594		StriplingWarrior
+171318		57200		hek2mgl
+18747		10016		Tony Andrews
+2598		1885		jjnguy
+7586		4895		Kobi
+497356		232483		Andrew Whitaker
+424300		186722		Dylan Markow
+2016562		2294849		Gabriele Mariotti
+89771		32371		Alix Axel
+62576		24564		Ken White
+16853		9178		oxbow_lakes
+133802		45406		David Hedlund
+100754		35556		Sinan &#220;n&#252;r
+44330		19061		Jason S
+2756719		3274163		T.C.
+135531		45914		AdaTheDev
+114066		39531		Janusz
+56778		22848		Jim Mischel
+4604579		5843921		Val
+1679310		1853233		Radim K&#246;hler
+223386		78500		hsz
+13508		7738		&#193;lvaro Gonz&#225;lez
+2147		1603		Jason Baker
+852828		454932		jrturton
+1831293		2052678		Evgeniy Dorofeev
+465183		212394		Gilles Quenot
+19299		10266		Brian
+5202563		6753168		Ivan Stoev
+1505939		1631513		M.M
+459897		209065		Dr.Molle
+6068		4105		pupeno
+62076		24418		Alex Wayne
+96656		34258		Mathias Bynens
+244128		88204		maerics
+492405		229440		vcsjones
+1676363		1849514		ianhanniballake
+348785		141612		kev
+299924		113969		trojanfoe
+6451573		8614021		Jean-Fran&#231;ois Fabre
+1927832		2177522		Suresh Atta
+38360		17239		Aaronaught
+592139		701757		Ian Roberts
+201952		69416		josh3736
+785065		412152		loganfsmyth
+714968		368268		mKorbel
+500104		234137		Xeo
+1831		1373		Russ Cam
+23501		12037		Ates Goral
+47529		20051		chaos
+90848		32681		Laurence Gonsalves
+301832		114848		Donal Fellows
+1033896		1024230		hmjd
+350087		142393		apneadiving
+200291		68692		icktoofay
+13070		7501		Mark B
+91671		32913		LBushkin
+957768		927229		rickster
+791604		416300		Daniel Wagner
+1053		806		Ed S.
+1695		1274		Gishu
+1012053		996187		dbenham
+51816		21350		Joan Venge
+2766176		5473		brian d foy
+1357341		1435980		arshajii
+63756		24945		womp
+214671		74769		Matteo Italia
+13552		7754		Greg Beech
+1687119		1839599		dbush
+421223		184881		KingCrunch
+9209546		12672477		jpp
+41116		18087		Abizern
+123109		42267		Greg Bacon
+5485167		7181370		yurzui
+817643		432714		StoryTeller
+2140		1597		Barry Wark
+1412059		1509604		Roland
+13087		7507		Joe
+1704166		1285973		Ryan Cavanaugh
+613430		304108		Tom Wadley
+1252759		1303256		Jon Clements
+265143		97818		P&#233;ter T&#246;r&#246;k
+1317805		1385695		James Donnelly
+1196		912		aku
+27862		13777		user123444555621
+1838509		2062218		agstudy
+48523		20341		Andrew
+2313887		2677968		Neil Lunn
+1932150		2183118		Andy Prowl
+3146		2273		1800 INFORMATION
+403671		174359		Simon Mourier
+839646		446547		Ryan Stewart
+3574081		4382979		mrry
+511529		240984		GolezTrol
+49153		20530		Click Upvote
+78845		29240		Johnsyweb
+623041		310184		eggyal
+24587		12480		Georg Sch&#246;lly
+80274		29643		Scott Chamberlain
+414076		180632		Anthony Pegram
+257182		94135		RobG
+135566		45927		Devart
+478399		220789		AlexR
+388520		165234		zwol
+1285133		1344060		rdelmar
+451475		203680		zaph
+1630618		1789974		vacawama
+283366		106364		Phil
+251153		91491		zneak
+38206		17179		Brian Rasmussen
+168657		56304		mob
+119280		41067		DVK
+1009479		992647		Yu Hao
+669586		339866		Sulthan
+198707		68016		Tatu Ulmanen
+49485		20630		Sophie Alpert
+33006		15562		Martin v. L&#246;wis
+15541		8588		leppie
+419		335		Kev
+39677		17640		Blankman
+2767755		1979871		Arup Rakshit
+191596		65015		justin
+379693		142343		Paresh Mayani
+63051		24717		flybywire
+221700		77745		peterSO
+84889		31011		Peter Niederwieser
+179850		60171		Gray
+1695960		1874453		Robert Crovella
+60711		23998		vartec
+135786		46002		Ben Lesh
+302677		115236		Rachel
+56541		22779		David Z
+1942		1456		kemiller2002
+1906307		2078887		Louis
+372643		155770		Bruno
+105224		36858		Andreas_D
+3522312		4311362		scaisEdge
+234938		83913		Christopher Orr
+86989		31622		newacct
+1393766		1485367		Pshemo
+12579		7277		Diodeus - James MacFarlane
+1227923		1271849		Alexey Mezenin
+15245		8452		Ryan Bigg
+105570		36964		Dan Tao
+235698		84277		Mark Tolonen
+304		246		McDowell
+250260		91056		Elenasys
+45433		19390		Crescent Fresh
+12030		7039		Nick Johnson
+219661		76830		Jamiec
+4342498		5460139		NathanOliver
+13663		7795		Will Hartung
+27423		13590		Daniel Earwicker
+344949		139391		ypercubeᵀᴹ
+932418		237153		L.B
+89266		32251		dfa
+905		689		Keith
+8815		5471		Peter Bailey
+101258		35717		Justin Ethier
+874188		468289		tripleee
+15031		8358		Jonathan Lonowski
+2586922		3052665		Luis Mendo
+577088		281021		senderle
+559784		270065		Arun
+20394		10730		Mike Samuel
+1531124		1663234		GhostCat
+305644		116580		hvgotcodes
+207248		71658		SiegeX
+205185		70895		Duncan C
+17624		9516		Thomas Wouters
+469935		215339		Armen Tsirunyan
+21926		11386		Sean Bright
+1695906		1845098		Michael - sqlbot
+641955		322516		janos
+29995		14531		Rob Hruska
+13792		7848		ColinD
+305		247		Mark Biek
+390278		166270		Jeff Mercado
+74118		27918		nevan king
+74314		27987		Haim Evgi
+39933		17710		genehack
+427332		188561		Tommy
+3309790		4018602		songyuanyao
+4851590		6236435		Scott Craner
+1686485		1862086		tymeJV
+9515207		13173718		CertainPerformance
+21677		11277		James
+1385941		1475459		mnel
+16102		8847		Cat Plus Plus
+3730754		4599643		LoicTheAztec
+35092		16216		Charlie Martin
+846273		450771		Gabriele Petronella
+280244		104911		Ralph
+119527		41153		Jonathon Reinhart
+31582		15112		Gareth
+60188		23860		Anton Gogolev
+400547		172481		Jon Hanna
+548696		263253		Tadeck
+2836621		3379153		Mark Setchell
+370305		154393		user370305
+1172002		1201401		Lars Kotthoff
+11236		6636		ripper234
+91914		32979		gnarf
+66692		25824		dirkgently
+25449		12822		Tsvetomir Tsonev
+1743880		1936546		Tunaki
+18180		9772		troelskn
+64004		25014		gahooa
+14660		8210		Schwern
+95382		33932		Michael Krelin - hacker
+1093528		1101161		fge
+273200		101585		Bala R
+9493		5792		Brian
+5928186		7841989		Shubham Khatri
+141555		47755		sberry
+214090		74526		hallski
+412770		179844		Ani
+1098851		1107812		fcalderan
+53212		21777		thomasrutter
+2670892		3159259		greg-449
+16363		8962		Mark
+850848		453710		Martin Prikryl
+17174		9321		Sam Saffron
+613130		303914		xanatos
+445517		199923		CodesInChaos
+67392		26013		Richard
+298575		113356		Romain Guy
+44853		19220		lc.
+27439		13598		Vincent Ramdhanie
+4482		3151		Ben Hoffstein
+23649		12095		jtbandes
+1136211		1155468		Clemens
+40005		17732		Ayman Hourieh
+295783		112084		mplungjan
+104184		36515		Sasha Chedygov
+445131		199671		Eric Leschinski
+377270		158544		sarnold
+412080		179420		Maxim Egorushkin
+30461		14690		Peter Hosey
+89806		32380		marcog
+142434		48015		Stephen Canon
+489564		227725		RNA
+13913		7901		Patrick Desjardins
+24054		12262		kgiannakakis
+822		629		Reto Meier
+241631		87042		Praetorian
+8155		5156		Amy B
+478884		221091		Tim Williams
+150634		50493		Joseph Mansfield
+298053		113091		Brad Christie
+1903366		2145714		lukasgeiter
+9833		5959		Shay Levy
+575527		280047		Joseph
+21239		11091		Mauricio Scheffer
+573261		278600		RichardTheKiwi
+14357		8089		spender
+1209279		354053		Levon
+320726		125141		6502
+267887		99110		Yuji &#39;Tomita&#39; Tomita
+9360		5714		Peter Boughton
+214010		74486		mikera
+189179		64005		Ben James
+77335		28833		HansUp
+1001985		982657		McGarnagle
+1864976		75786		Adam Dymitruk
+131368		44712		ChssPly76
+2455888		2860523		haccks
+440119		196596		Benjamin Lindley
+368630		153395		David W.
+9410		5739		Aristotle Pagaltzis
+213464		74258		YOU
+12725		7342		James Curran
+400654		172549		Kevin B
+398968		171501		Katriel
+15861		8725		BFree
+3037257		3643696		Pranav C Balan
+251738		91739		Mark B
+7252182		9785813		mm8
+234		190		Orion Edwards
+107744		37665		spencer7593
+350858		142877		Sudhir Bastakoti
+111335		38725		Pavel Minaev
+1450		1092		John Topley
+244297		88287		Eugene Yarmash
+597657		294022		Eng.Fouad
+477420		220160		Alexei Levenkov
+45664		19462		Andrzej Doyle
+2079303		2375956		eerorika
+1659		1248		Mark Cidade
+2235132		2577836		devnull
+218589		76326		Klaus Byskov Pedersen
+189205		64020		interjay
+2548		1851		Fionnuala
+1219006		1260626		jamylak
+3010968		3579893		Selman Gen&#231;
+25324		12776		pmg
+410767		178655		Tony Delroy
+2611		1895		ars
+918959		556766		Antti Haapala
+2410359		2802349		chux
+6461		4331		splattne
+8954		5533		Tamas Czinege
+168225		56167		Georg Fritzsche
+3250829		3933264		rayryeng
+85134		31084		araqnid
+35364		16316		hasen
+25222		12732		Robert Gamble
+457406		207503		Matthias Bauch
+142822		48120		adatapost
+8435		5293		Tom Ritter
+3788176		162699		Andy Turner
+2402272		2792262		John Bollinger
+157237		52614		Peter
+4833		3352		VolkerK
+15537		8586		Matthew Scharley
+1240763		1288095		Gary Russell
+236398		84612		hackbod
+65223		25386		KM.
+134554		45619		John Bode
+98607		34869		Martin Liversage
+2035262		2318915		Aleksei Matiushkin
+385378		163317		NikiC
+710446		365493		apsillers
+2308683		2671330		cricket_007
+1441122		1548079		Stuart Marks
+59501		23674		StaxMan
+594235		291839		Sparky
+314291		121293		StuartLC
+1139697		1159964		Zeta
+42139		18408		jeroen
+411591		179140		markE
+1079354		1082858		Makoto
+33686		15770		e.James
+1267329		1321622		Simeon Visser
+398242		171070		Wesley Murch
+138304		46788		Sam Harwell
+16406		8978		Chris Dodd
+6622587		8708296		eyllanesc
+5070879		6559132		Lukasz Szozda
+4872		3378		Ray Vega
+284795		107038		Colonel Panic
+1850609		2077773		acdcjunior
+703717		361247		Danield
+3923281		1556429		Alex Riley
+885318		475155		i3arnon
+428790		189452		Joris Meys
+241536		86993		John Dibling
+21632		11258		Adam Bellaire
+546661		262054		Peter Olson
+74757		28117		Cᴏʀʏ
+58186		23274		KooiInc
+70386		26894		jgauffin
+81179		29910		ChristopheD
+2231815		2573628		rakib_
+127724		43656		Artefacto
+2119		1582		Can Berk G&#252;der
+48492		20332		Steve Harrison
+447156		200982		Soner G&#246;n&#252;l
+120163		41366		Ira Baxter
+2214		1645		Matthew Crumley
+114029		39521		Leniel Maccaferri
+493939		230367		Luksprog
+981049		955705		Michael Dautermann
+1353011		1430494		Musa
+10897		6474		Martin Beckett
+4086		2882		Ferruccio
+134830		45700		Richie Cotton
+40655		17933		Robin Day
+9034		5566		HLGEM
+4639		3237		Edward Tanguay
+61164		24130		Erik Funkenbusch
+97828		34591		Nadia Alramli
+2830850		3371794		Tarun Lalwani
+211563		73470		Andrew Marshall
+16632		9084		hadley
+15809		8706		Mecki
+3545273		4342327		Serge Ballesta
+421195		184870		paulsm4
+106205		37167		ralphtheninja
+745903		387513		leftaroundabout
+1226894		1270473		Baba
+807126		426109		Doug Stevenson
+6694		4448		Ben Gottlieb
+644898		324366		Jeff
+5157454		6686335		Ori Drori
+3191		2298		Domenic
+80860		29826		kennebec
+372		298		Jon Limjap
+861716		460548		Gert Arnold
+2867928		2444936		Kasr&#226;mvd
+2509		1827		dmckee
+650405		327820		Karoly Horvath
+714969		368269		Kevin Bowersox
+201078		69026		Gone Coding
+10320		6192		dreamlax
+58803		23456		lhunath
+17279		9373		zoul
+3001626		3597339		David Arenburg
+2603		1889		Aaron Maenpaa
+163053		54503		Shane
+298225		113187		Eric Postpischil
+2144390		2460030		Gord Thompson
+1461008		1574011		WestLangley
+597607		293987		Bo Persson
+17389		9417		ysth
+131433		44736		bmargulies
+5221149		6780825		Andreas
+1038015		1029387		Robert Longson
+3001761		3597514		jonrsharpe
+123111		42269		Kirill V. Lyadvinsky
+984823		960307		Joop Eggen
+20128		10611		serg
+4952130		6383531		Jim Fasarakis Hilliard
+3785314		4674495		Programmer
+8620333		11780569		Temani Afif
+342235		137777		Freewind
+984421		959813		ekhumoro
+259769		95372		Enigmativity
+121493		41780		Donut
+75642		28335		Robert Koritnik
+59111		23558		Ahmad Mageed
+318758		123958		Joni
+95612		33994		Jochen Ritzel
+136540		46249		Michael Aaron Safyan
+1229023		1273208		raina77ow
+3063910		3678372		Rich Scriven
+1267661		1322038		Sam
+20972		10974		Dominic Rodger
+10263		6164		Brian Rogers
+5393381		7040846		MSeifert
+400056		172189		DarkDust
+24995		12633		Dave Markle
+3030305		3634993		John1024
+81205		29918		zombat
+1950		1461		Jon Erickson
+1945651		2201325		JLRishe
+2424		1771		NotMe
+567751		275097		sandeep
+370103		154284		Curt
+71522		27199		David Wolever
+477037		658903		Stefan
+27009		13441		Kornel
+405143		175253		David Tang
+248432		90221		Peter Knego
+1426065		1528147		MattDMo
+2255089		2603307		Casimir et Hippolyte
+26210		13140		Andrew Moore
+4120		2908		Grundlefleck
+29		21		Michael Haren
+859154		458956		Royi Namir
+99834		35261		sorin
+179125		59908		Jordan Running
+3016153		3616427		michael.hor257k
+2199		1637		Mark Brackett
+3349551		4078567		Pரதீப்
+3234959		3909123		chi
+59541		23690		Nate Cook
+387076		164368		Gilles
+3731501		4600649		estus
+422597		185700		Colin Hebert
+232707		82871		Michał Marczyk
+1275169		1331302		P.P.
+2998271		3592606		har07
+10585		6322		Eran Galperin
+369		295		Blorgbeard
+6508		4357		Jorge Ferreira
+2802040		3333839		Paulie_D
+844882		449854		Alex Lockwood
+19635		10401		M4N
+174777		58377		John Rotenstein
+3937		2794		Lou Franco
+176769		59072		karlphillip
+169346		56534		JeremyP
+142637		48070		sloth
+104790		36705		Nikolai Ruhe
+8992		5550		Ry4an Brase
+1065197		1064245		Luiggi Mendoza
+2296458		2655697		CoryKramer
+238978		85794		Emil Vikstr&#246;m
+1735406		1924671		Maroun
+1899640		2141010		that other guy
+3848		2737		Motti
+1920232		2167422		peterm
+15880		8732		Powerlord
+634419		317634		Anomie
+131874		44853		Clodoaldo Neto
+2474656		2884443		Gary&#39;s Student
+960558		919269		Lazy Badger
+2050455		2338680		mscdex
+1281433		1076053		Joshua Taylor
+78374		29108		Stefano Borini
+86463		31485		harto
+238886		85750		Wayne Conrad
+3827		2722		Eugene Yokota
+361023		148913		Jorge E. Cardona
+661853		335024		drewag
+541038		258701		Joran Beasley
+4376		3082		Nathan Long
+217324		75804		Nathan Hughes台湾不在中国
+90801		32669		Arthur Ulfeldt
+1413395		1511352		πάντα ῥεῖ
+1725764		1912280		Hashem Qolami
+106159		37150		Matthew Watson
+188096		63568		Gaurav Mantri
+16940		9214		Simon_Weaver
+39992		17729		strager
+159145		53229		Dai
+211116		73277		Spacedman
+18255		9807		Cade Roux
+2897748		3460456		Dmitri T
+4465		3141		levik
+34218		15939		Jason Coco
+165673		55331		Yarin
+1064226		1062987		Frederick Cheung
+271959		101001		Frank Heikens
+775806		406349		n.m.
+263004		96837		Vivin Paliath
+282848		106133		Andreas Rejbrand
+3593996		4411074		Marcin Nabiałek
+123582		42418		Rich Seller
+18157		9760		Jim Garrison
+1073107		1074704		dash
+20261		10668		Ikke
+1734130		1923119		mvp
+1811992		2027351		web-tiki
+210578		73045		David Hellsing
+3571		2558		codeape
+19403		10305		Robert Rossney
+82320		30237		Billy ONeal
+390913		166649		perreal
+158676		53080		P Shved
+19746		10448		Piskvor
+77779		28947		Yishai
+1069068		1069432		Raghav Sood
+11354		6688		Stefan Gehrig
+128940		44018		Beta
+4620771		5867230		Nenad Vracar
+160313		53614		Burt Beckwith
+901048		485010		Blazemonger
+659804		333768		Ernest Friedman-Hill
+157360		52660		C. A. McCann
+942852		370721		Nitzan Tomer
+95589		33989		Eric
+1628832		1787733		karthikr
+1427878		1530592		CBroe
+1744834		1937821		Roman Pekar
+310574		119097		Gabe
+1663001		1831749		DavidG
+383402		162132		Borealid
+2310830		2674049		RiggsFolly
+232610		82822		Jonas
+251173		91502		Buhake Sindi
+288671		108817		Vitalii Fedorenko
+325418		127918		太極者無極而生
+106671		37327		Nikolai Fetissov
+690854		353253		thecodeparadox
+166712		55654		Anthony Forloney
+752738		391841		Jasper
+670396		340390		elclanrs
+916657		552826		Niklas B.
+1059372		1056871		Eugene
+788207		414154		Vladimir Matveev
+633183		316828		user633183
+576875		280900		Arnaud Le Blanc
+1312143		101249		Ken Thomases
+1201032		1237799		flodel
+165520		55292		Prasoon Saurav
+318425		123760		Fredrik Hedblad
+572		445		Thomas Owens
+118903		40959		Vinay Sajip
+751090		390801		carlosfigueira
+1329652		1173540		Kuba Ober
+3501		2513		Anders
+1714410		1897873		Shai
+298624		113382		fl00r
+427083		188360		Mundi
+2827823		540916		LGSon
+5311735		6918305		Evk
+297641		597612		Selvakumar Arumugam
+719186		370947		LarsTech
+496445		231940		jdi
+791998		416547		Petar Ivanov
+2985303		3576085		Scott Barta
+2696260		3192259		M. Deinum
+89817		32384		Gordon Davisson
+256970		94036		Cary Swoveland
+41956		18340		abatishchev
+637853		319873		Thomas
+2606013		3076921		Harry
+6440		4320		redsquare
+1217358		300328		Warren Weckesser
+140816		47523		Jo&#227;o Silva
+17833		9609		Petesh
+440502		196830		Aliostad
+6330		4253		Kendall Helmstetter Gelner
+168175		56144		Flexo
+7595		4899		Pablo Fernandez
+769265		402229		David Wasser
+5133585		6651855		Sweeper
+331508		131474		Brock Adams
+179736		60131		TIMEX
+1766831		529143		Rick James
+3418066		2441570		Paulw11
+1719752		1904631		Milind Anantwar
+365496		151546		bames53
+562459		271760		Mike Sherrill &#39;Cat Recall&#39;
+5441		3746		Darryl Hein
+125734		43074		Titian Cernicova-Dragomir
+55075		22370		kenorb
+884978		474951		creack
+167735		55986		slebetman
+44309		19055		High Performance Mark
+471272		216196		tchrist
+39975		17723		Dustin
+680398		346711		Andres  Ilich
+927034		888101		K-ballo
+219743		76860		Gazler
+319403		124364		cHao
+880990		472485		Olivier Jacot-Descombes
+355230		145428		martineau
+2915		2114		Adam Davis
+736079		381431		jessehouwing
+4856258		6243460		Tagir Valeev
+12707		7334		Quintin Robinson
+92313		33083		Daniel Vandersluis
+25050		12659		Mr Fooz
+1857266		2084934		Didzis Elferts
+227299		80364		Juan Mendes
+392		313		Dan Herbert
+45		36		Bob
+680925		347037		Perception
+383609		162257		Bojangles
+1587046		1734091		Alexis C.
+1269037		8216		Dan Dascalescu
+23199		11910		p.campbell
+2025923		2306806		Tushar
+2847		2069		John Boker
+3110834		3741051		Reza Aghaei
+565635		273792		orlp
+270371		100270		davidxxx
+122005		41926		chridam
+8454		5301		Andy Lester
+701092		359594		0x499602D2
+98401		34795		Josef Pfleger
+1631193		1790714		Gabe Sechan
+1959747		2220178		Antonio Carlos Ribeiro
+1631379		1790949		Maxim Shoustin
+889949		478087		DaveRandom
+1414562		1512890		A. Wolff
+202009		69443		Andy Thomas
+226621		80057		Alok Singhal
+616700		306129		Erik
+496803		232152		thelatemail
+145403		48895		Ned Deily
+797		610		Matt Sheppard
+1143732		1165096		Richard Peck
+19410		10311		Alex Reynolds
+13430		7692		Evan Teran
+72247		27387		Jarret Hardie
+228171		80775		Mark Peters
+3603		2581		Richard Szalay
+1591669		1739979		unor
+21475		11201		Cameron
+296974		112612		glglgl
+23072		11857		Uri
+139746		47225		Pascal Cuoq
+102441		36018		Eric
+613198		303952		rsp
+60261		23882		Daniel Lew
+22364		11564		Markus Jarderot
+353802		144614		AlienWebguy
+18511		9921		Kip
+2756547		3273937		Artem Bilan
+214790		74808		matt
+11830		6944		jop
+110707		38549		Wooble
+4435		3121		Jimmy
+6148		4147		Trey Jackson
+116923		40346		adrianbanks
+69802		26724		inazaruk
+831878		441661		Ray Toal
+671858		341323		sergio
+302916		115344		Brian Roach
+510937		240600		Bakuriu
+5628		3852		Prestaul
+1627235		1785716		Sven Hohenstein
+290085		109492		kjhughes
+3916		2785		Vineet Reynolds
+396458		170019		NullUserException
+17028		9264		Franci Penov
+192247		65284		missingfaktor
+903061		486257		Gregor
+797049		419726		Mark Reed
+62130		24436		Esko Luontola
+4642		3240		Xian
+330057		130645		corsiKa
+5768908		7606366		Gerardo Furtado
+183172		61460		martin clayton
+372239		155533		Toto
+256618		93866		Mark O&#39;Connor
+254528		92954		John Hartsock
+50776		21018		casperOne
+366377		152093		Jens Gustedt
+472375		216875		Shakti Singh
+772649		404369		HYRY
+107415		37566		Matchu
+113141		39261		Justin
+717383		369805		James Montagne
+15955		8776		Nils Pipenbrinck
+4853		3366		Owen
+345717		139856		EboMike
+32880		15526		JimB
+296328		112317		khmarbaise
+626273		312289		stema
+84270		30816		John Machin
+61700		24298		itowlson
+481267		222578		Brian
+127893		43713		AraK
+352552		143886		Adam Rackis
+309925		118706		rckoenes
+82156		30184		emmby
+960757		930843		TLama
+722783		373252		Mahmoud Gamal
+132047		44914		Jake Wharton
+527185		250463		Chandu
+359307		147884		Kurt Pfeifle
+5728		3908		Paul Betts
+1000343		948131		Tyler Rinker
+400617		172527		davidism
+156142		52266		ChaosPandion
+1026459		1014615		Travis J
+260127		95531		prosseek
+225312		79477		user225312
+6899		4551		tzot
+20578		10809		Paul D. Waite
+14089		7982		paercebal
+361684		149301		gilly3
+39321		17529		Svish
+507519		238552		thkala
+2196460		2527365		hotkey
+468793		214681		kapa
+11296		6664		Bert F
+297762		112952		Robby Pond
+43582		18835		Bombe
+865874		463151		rodrigo
+632337		316255		Rohit Vats
+1407478		1503557		davidkonrad
+550966		264582		Pankaj Kumar
+110204		38406		Martin Geisler
+369707		154037		ScottS
+29809		14472		R Samuel Klatchko
+596285		293130		BMitch
+653364		329699		joris
+1786		1337		John Sheehan
+1059101		1056525		Jai
+722121		372833		Gareth Latty
+240733		86603		stakx
+54420		22166		Josh Stodola
+180784		60544		Felix
+1405065		1500118		Blckknght
+825789		437871		bfavaretto
+13673		7800		David S.
+35501		16366		JRL
+297408		112805		Andriy M
+1104384		1114770		Midhun MP
+3943312		4892666		Sam Varshavchik
+107660		37637		Duncan
+1709587		1891677		Mark Amery
+287586		108321		dan04
+8279		5211		Marc-Andr&#233; Lafortune
+1600898		1752028		user4815162342
+13018		7478		annakata
+66226		25688		Trevor Burnham
+44084		19001		Andreas Grech
+83109		30464		David M
+772055		403984		ShankarSangoli
+32914		15535		Mason Wheeler
+847363		451457		Yahia
+1693173		51808		progrmr
+589259		288696		Maarten Bodewes
+47550		20059		Paul Sasik
+290394		109636		steenslag
+578895		282169		Mark Kahn
+567435		274911		Rahul
+444991		199576		Matt
+1622493		1779372		Bruno Lowagie
+198633		67986		inspectorG4dget
+397861		170851		Nicola Peluchetti
+228109		80745		Ben Clayton
+2783370		3309542		Anbu.Karthik
+1066031		1065287		Chris Seymour
+10947		6494		benzado
+9859		5976		rampion
+247243		87416		Misha Moroshko
+254279		92852		Thomas Pornin
+48684		20383		Ot&#225;vio D&#233;cio
+116472		40213		Thomas Broyer
+44743		19194		recursive
+2149718		2466818		Giorgos Betsos
+373321		156185		Stuart
+1310		988		ScArcher2
+3125566		3760371		Moses Koledoye
+8427		5287		Jim
+27204		13511		gnud
+283863		106573		Derek 朕會功夫
+13154		7547		ctacke
+364696		151071		ShadowRanger
+1084		831		Nathan Fellman
+1074592		1076586		FakeRainBrigand
+3081018		3701398		Steffen Ullrich
+14069		7974		paxos1977
+724626		374427		Joe
+8655		5388		robertc
+119895		41275		Macarse
+341750		137518		hotpaw2
+60682		23991		David
+1848654		2075037		melpomene
+189950		64324		Kirk Woll
+1438393		1544549		Amal Murali
+41360		18162		Vilx-
+190807		64675		TechZen
+187697		63405		keyboardP
+1457051		528725		hrbrmstr
+127320		43539		Aravind R. Yarram
+188715		63821		Daniel Ruoso
+145587		48952		OneOfOne
+20938		10959		Alan Moore
+4593267		5823909		chqrlie
+44562		19131		soulmerge
+1108891		1120463		Shaun Luttin
+675383		343582		nhaarman
+7473		4836		Laurie Young
+14606		8185		MusiGenesis
+479989		221801		Ben Jackson
+466862		213468		Mark Rotteveel
+41665		18253		Chad Birch
+3713		2648		Spoike
+711085		365893		ninjagecko
+2530848		2980871		Sriram Sakthivel
+5221944		6782076		Mikhail Berlyant
+272824		101390		Konstantin Burov
+600500		295869		Paŭlo Ebermann
+650492		327869		Johan
+726361		375493		Seth Carnegie
+340760		136917		BrunoLM
+5260024		6839005		Jonas Wilms
+7585		4894		Tim C
+82586		30312		James
+330644		130979		Delan Azabani
+217332		75807		danben
+149808		50238		ZZ Coder
+53850		21978		sykora
+147024		49385		yole
+1003917		985246		Shankar Damodaran
+98038		34669		molf
+2483313		2895425		spickermann
+2128947		2440205		Magoo
+445543		199943		stivlo
+20984		10978		Luc Touraille
+1529853		1661658		Mike Brant
+26457		13233		Romain Linsolas
+244353		88314		Mrchief
+47453		20026		Bill Lynch
+11343		6683		CharlesB
+3207		2310		Carl Meyer
+712603		366823		David Robinson
+40516		17898		Juliet
+726863		375811		Lalit Poptani
+2206004		2540011		hwnd
+205608		71085		O. Jones
+241462		86959		Dean Harding
+6010		4073		Jim Puls
+429		343		Patrick
+2073595		2368363		dano
+77		63		Darren Kopp
+1755		1319		Matt Lacey
+2442099		2842894		G-Cyr
+18515		9922		Devin Jeanpierre
+93448		33395		Derick Bailey
+625403		311679		amalloy
+4172		2940		kender
+1995738		2267495		klin
+381345		160931		casablanca
+27580		13661		Eli
+57191		22973		cwallenpoole
+11683		6868		GSerg
+53341		21819		MatBailie
+168986		56413		Clifford
+557445		268602		Rion Williams
+422		337		Chris Bunch
+496488		231966		eipi10
+457352		207473		Benoit
+681865		347631		talonmies
+9567		5824		Torsten Marek
+795990		419044		Anand S Kumar
+73681		27790		cobbal
+1578604		1723373		Jerry
+298607		113371		dawg
+950147		917725		Akshat
+115845		40044		Shawn Chin
+1426227		1528364		cassiomolin
+1333873		1406232		Golo Roden
+493122		229866		Shoe
+21945		11394		mhawke
+15682		8651		rslite
+519216		245623		Lamak
+11834		6947		moonshadow
+658		508		Kyle Cronin
+631619		315778		Michael Durrant
+182971		61382		Sjoerd
+166686		55645		mjv
+61027		24093		Nosredna
+953482		921943		Kevin
+1384297		1473276		Andy Wilkinson
+2861476		3411706		MC ND
+11123		6581		Philip Fourie
+603977		298117		Josh Caswell
+201863		69373		LearnCocos2D
+90527		32581		outis
+691688		353777		Femi
+1190388		1224532		hjpotter92
+295264		111852		Starx
+4926		3416		Jason Cohen
+12349		7179		yfeldblum
+653230		329612		WhiteFang34
+1180620		1136690		Mark Adler
+694576		355564		alk
+119634		41181		Vincent Malgrat
+216063		75307		Gregory Pakosz
+732945		379520		Alex Aza
+1639625		1801353		tobias_k
+1366033		1448254		KyleMit
+64949		25294		Sindre Sorhus
+1025118		1012936		Vlad Mihalcea
+84201		30799		Jitendra Vyas
+66353		25722		Alan Haggai Alavi
+1094597		1102504		kosa
+42585		18550		Alohci
+39375		17549		Tyler McHenry
+148357		541417		Antonio
+143378		48276		hpique
+159270		53270		Aristos
+1420197		1327442		Ionică Bizău
+23070		11855		Brian Carper
+417501		182638		fuz
+471093		216079		baptiste
+161801		54090		asmeurer
+64313		25114		cmcginty
+238419		85546		BlueRaja - Danny Pflughoeft
+258523		94756		Etan Reisner
+1060350		1058083		Anony-Mousse
+598696		294676		Vittorio Romeo
+324105		127137		phils
+970195		942337		jaypal singh
+21441		11188		Mark Elliot
+60096		23836		Andy White
+2227743		2568291		ayaio
+1593860		1742994		Pete Becker
+64174		25066		Sean Owen
+463115		211125		jeb
+892493		479680		drew010
+46914		19858		Soviut
+712649		366852		Mathias R. Jessen
+22459		11611		&#211;lafur Waage
+1235698		1281728		Marcin Orlowski
+43681		18868		sleske
+757508		394854		luschn
+497043		232294		Chris Morgan
+53897		21994		Thorbj&#248;rn Ravn Andersen
+81769		30080		Josh
+196561		67116		osgx
+2844319		3388997		AbraCadaver
+854246		455837		Joseph Marikle
+23643		12092		Alex B
+46926		19864		Andrew Arnott
+1095616		963816		Stewie
+28128		13883		David Grayson
+74022		27889		Brandon
+220147		77035		Michael Kohl
+918414		553079		ThinkingStiff
+176761		59068		Alex Volovoy
+447356		201110		Shadow Wizard
+417194		182468		Denis de Bernardy
+14742		8240		Jeff Hill
+1238019		1284690		zessx
+725418		374917		TLP
+1230836		1275459		Elias Van Ootegem
+6491		4350		gimel
+3553087		1416522		Brian Goetz
+363751		150501		supercat
+413127		180055		Blundell
+299509		113787		fuxia
+868014		464478		Roman R.
+164998		55101		Jason McCreary
+28835		14139		too much php
+68507		26356		Ben S
+392044		167317		Mike Christensen
+272109		101080		David Makogon
+1081110		1085259		Dawood ibn Kareem
+160206		53576		Bj&#246;rn Pollex
+54017		22035		Wolph
+297696		112931		wkl
+52626		21605		Wim Coenen
+11858		6957		daveb
+160173		53566		David Murdoch
+42973		18661		Eric O Lebigot
+45249		19343		mouviciel
+330565		130930		Nikita Rybak
+1292848		1354077		Paul LeBeau
+1741542		1932421		Olaf Dietsche
+2204410		2531385		Jaap
+280222		104904		Anders Abel
+768469		401732		Nemo
+493		392		lomaxx
+87399		31737		Joe White
+18122		9744		Oliver Drotbohm
+812912		429815		Ivaylo Strandjev
+412916		179927		Jano
+119549		41158		Jacob
+1073631		1075346		sgeddes
+436376		194186		KeithS
+367138		152537		Alexander T.
+3679490		4528276		vks
+302139		114991		Edwin Buck
+108205		37811		jsbueno
+11465		6744		David Cournapeau
+1301972		1365444		Todd A. Jacobs
+171461		57248		jldupont
+187141		63162		yegor256
+245860		89020		Claudio Redi
+17744		9571		Micah
+267269		98821		Praveen
+8446		5298		Roger Lipscombe
+8355		5248		cjm
+2938		2131		JasonSmith
+2015579		2293469		Richard Hodges
+149482		50152		Matt Joiner
+201199		69081		Joshua Nozzi
+421018		184762		Fogmeister
+163203		54548		Harish Shetty
+198643		67988		Thomas
+107090		37458		lhf
+6361531		7316008		Scott Boston
+354577		145051		Chris
+1438733		1545009		Eric
+636019		318676		ildjarn
+242933		87653		ma11hew28
+1848600		2074958		Gajotres
+145346		48869		Mottie
+229602		81420		Noufal Ibrahim
+546999		262258		Nanne
+966550		937963		waqaslam
+399815		172044		Rafe Kettler
+783681		411313		cuongle
+358679		147517		Wrikken
+134204		45520		Panagiotis Kanavos
+152083		50941		Doug Neiner
+49701		20689		Evan Fosmark
+6433023		8587394		Nirav D
+404335		174767		SW4
+6946		4581		Anurag Uniyal
+4248328		5326386		Alive to Die
+21709		11297		Philip Morton
+776560		406832		Wes McKinney
+166949		55732		steveha
+249281		90578		Sheridan
+45773		19505		Steffen Opel
+3185459		3842961		RomanPerekhrest
+104458		36607		selbie
+1209018		1247957		Rajaprabhu Aravindasamy
+315052		121744		jxh
+216164		75341		Thomas M. DuBuisson
+308903		118115		joaquin
+4281779		5374309		Zakaria Acharki
+380231		160284		tacaswell
+1256624		1308075		huon
+1374437		1459823		Hristo Iliev
+697630		357454		Edwin Dalorzo
+184046		61821		Legend
+118703		40899		Samuel Neff
+353410		144393		Dr. belisarius
+66516		25769		vladr
+1623007		1780022		Joe
+286871		107998		Tikhon Jelvis
+2411802		2804247		Alexander
+156695		52438		Tigran
+215752		75192		Hogan
+1426891		1529248		Jeff Bowman
+330280		130772		aleroot
+321946		125868		RPM1984
+301857		114857		Grant
+3744182		4617916		dbc
+1191259		1225678		Frank
+718618		370590		C&#233;dric Julien
+91757		32940		Frerich Raabe
+199245		68251		Ray Burns
+356788		146372		Ken Cochrane
+241590		87016		stacker
+2041092		2326787		M.Ali
+19082		10167		Mike Hordecki
+1064245		1063012		manouti
+3094533		3719096		Zohar Peled
+1380918		1468834		hexacyanide
+2314073		2678195		Juned Ahsan
+72791		27535		DrAl
+7116		4661		user7116
+60777		24020		Chris Lutz
+63034		24712		mikej
+1729265		1916831		mkl
+246461		89296		Devunwired
+66549		25779		doug
+2088135		2387472		Tom Fenech
+30225		14611		Preet Sangha
+774116		405311		Gryphius
+995579		973608		MrCode
+14113		7996		EfForEffort
+358221		147240		Adam Houldsworth
+298389		113266		om-nom-nom
+1065241		1064296		zzzz
+55943		22614		mquander
+1253844		1304625		Tanis.7x
+172211		57484		Carl Smotricz
+524555		248887		Duopixel
+43427		18791		codelogic
+1169798		1198635		Sirko
+139300		47077		CD..
+934239		897255		Xan
+26160		13117		JoshBerke
+819272		433747		TemplateRex
+1280410		1338162		Darren
+837534		445220		Mike M&#252;ller
+249933		90891		ColinE
+200266		68682		Debilski
+2658202		13560		Stefan Steinegger
+345490		139719		Icarus
+215966		75273		prodigitalson
+878126		796053		android developer
+1652962		1818331		cimmanon
+451980		204016		icecrime
+1195080		1230342		Mike Perrenoud
+496161		231762		TartanLlama
+113195		39280		Boldewyn
+1331430		1403011		Fabr&#237;cio Matt&#233;
+201725		69303		Jan Hudec
+388787		165387		Dan D.
+247696		89879		Flimm
+670206		340275		Suever
+143804		48396		ire_and_curses
+68063		26235		Gareth Rees
+7671		4938		Alex Miller
+133910		45435		Yuriy Faktorovich
+127059		43462		Femaref
+1755598		1951642		CodeWizard
+418413		183182		kojiro
+777186		407232		jogojapan
+656769		331837		Mike Lewis
+492901		229735		netcoder
+951890		920061		Vaughn Cato
+82219		30208		tux21b
+256138		93664		rubenvb
+13724		7823		MarkR
+54249		22104		dahlbyk
+226897		80184		Abe Miessler
+251986		91840		Reigel
+3395198		4129207		IntelliJ Amiya
+5728991		1825560		ThunderCat
+542270		688414		Opal
+277304		103559		leonbloy
+608639		301110		jww
+12943		7445		Bill K
+2558060		244505		Damith
+1445366		1553532		Aaron Brager
+43832		18912		Tom Harrington
+1048425		1042758		GarethD
+9345		5708		Steven A. Lowe
+1509264		1635690		MT0
+961526		931762		Rapha&#235;l Althaus
+1984039		2252003		gurvinder372
+4984832		6432155		SushiHangover
+995891		974021		zapl
+3636601		4470050		Jens
+2274212		2623230		lena
+129404		44147		Igor Zevaka
+190201		64432		ataylor
+82609		30319		Sebastien Lorber
+314020		121148		kohske
+3820		2717		Cameron MacFarland
+188246		63622		David Sherret
+1816580		2033317		Artjom B.
+853360		455264		M Khalid Junaid
+28004		13840		balexandre
+1100552		1109888		Eugen Rieck
+808486		426969		Tudor
+1003142		984212		Konstantin Yovkov
+459640		208883		aschepler
+184600		62061		maček
+30618		14754		Noah Witherspoon
+561309		271008		this.lau_
+418715		183379		Joe
+432745		191900		pyfunc
+85360		31162		Brandon Rhodes
+183406		61566		meriton
+23234		11929		Jeff Yates
+4766		3306		Daryl Spitzer
+71059		27080		AakashM
+1521179		1650465		amon
+3647361		4484139		Columbo
+3002		2184		dF.
+1586880		1733893		lifetimes
+921204		558790		techfoobar
+2991525		3583958		fabian
+608772		301203		JPBlanc
+
+471795		216502		kanaka
+78259		29074		Chas. Owens
+727208		83674		tereško
+3510736		4295573		Ami Tavory
+781707		410087		Davin Tryon
+4203		2961		Hank Gay
+188031		63538		tokland
+264		210		Xenph Yan
+23691		12111		krosenvold
+823393		775068		OldCurmudgeon
+1422451		1523410		Parfait
+227267		80348		Matti Virkkunen
+60		49		Dave Ward
+15401		8514		ConcernedOfTunbridgeWells
+571189		277279		Prince John Wesley
+68015		26222		hunter
+56285		22705		Jonik
+2270762		2623160		Thorsten Kettner
+2556117		186835		Fraser
+5597		3832		Anthony Williams
+65070		25331		Eric Petroelje
+3521006		4309494		docendo discimus
+3933332		4879045		Rizier123
+5651		3864		jessegavin
+11568		6808		Aron Rotteveel
+754604		392995		Connor
+88558		32074		Lucero
+1338		1008		Jason
+13279		7617		Mitchel Sellers
+11649		6849		Javier
+572743		278250		Damon
+779513		408696		Justin Pihony
+3448419		4210603		apangin
+2138752		2452934		Bhojendra Rauniyar
+1783619		1989163		BradleyDotNET
+18300		9828		Alex. S.
+23897		12201		Michael Petrotta
+301607		114756		StanislavL
+968261		940033		Alexey Frunze
+16511		9034		Rich Bradshaw
+778560		408099		Aacini
+106979		37416		fortran
+983912		959176		Leo Natan
+1114486		1127608		Didier Spezia
+402253		173515		Mchl
+104200		36521		Tim
+263268		96955		Steve Bennett
+2411320		2803607		gsamaras
+357693		146921		Matthew Abbott
+49376		20591		Skilldrick
+635981		318651		David Weldon
+39742		17660		Naveen
+154112		51565		Simon Sarris
+1862		1392		Kibbee
+283676		106491		Andrey
+862594		461096		nickb
+1322972		1392510		WhozCraig
+886931		131200		Dagg Nabbit
+269476		99844		James
+874024		468182		CapelliC
+413337		180181		Codo
+1189885		1223835		chrylis
+80425		29689		David Snabel-Caunt
+592746		290921		Wayne Burkett
+1836		1376		Matthew Farwell
+112671		39088		Robert Munteanu
+41316		18149		bruno desthuilliers
+104015		36460		omg
+4085910		5093802		Dharmesh
+473798		217811		Michael Goldshteyn
+3620003		3197460		timgeb
+555384		267296		jondavidjohn
+608157		300796		David R&#246;nnqvist
+43846		18920		stuartd
+125844		43112		notnoop
+172261		57496		rcs
+13051		7492		JesperE
+1175		896		Kristopher Johnson
+17964		9669		eyelidlessness
+1875256		2109754		Ehsan Sajjad
+77507		28882		Daniel Br&#252;ckner
+2545680		3000016		Max Koretskyi aka Wizard
+397952		170900		JNK
+192839		65561		Mike Graham
+1207195		1245681		Adriano Repetti
+648658		326728		Jens
+573626		278830		omz
+131140		44643		Goz
+51197		21147		Adam Matan
+126229		43215		EricLaw
+2443		1781		Allain Lalonde
+729881		377630		Edward Thomson
+1435869		543749		karakfa
+236465		84644		Diego Torres Milano
+203130		69897		coreyward
+5089204		6586622		Shnugo
+5423108		7086416		Alireza
+1043		799		Andrew Grant
+14148		8014		David Thornley
+20074		10588		Ken
+75500		28293		Shimmy
+82959		30417		kvb
+20789		10898		Dan Lenski
+180538		60447		WarrenFaith
+415635		181556		Chase
+8922		5519		Sebastian Redl
+508666		239224		PeeHaa
+61158		24127		akarnokd
+399317		171717		Kos
+322912		126426		Roman Luštrik
+2060725		2352177		nvoigt
+65868		25591		TofuBeer
+160378		53637		retronym
+194940		66461		Matt Greer
+219162		76599		Daniel Stutzbach
+574168		279160		mjolinor
+44269		19046		djdd87
+41747		18279		D.Shawley
+941272		906484		Sushanth --
+56018		22635		Peter J
+90511		32578		hugomg
+21574		11234		Chris S
+15614		8615		Kent Fredric
+52443		21534		Welbog
+617839		306851		alessioalex
+6760		4483		Jonny Buchanan
+783743		411351		Aadit M Shah
+3737		2663		Jesse Rusak
+358970		147688		marcind
+784588		411858		Jarek Tkaczyk
+5422		3732		Tobi
+1090079		1096613		Filip Ros&#233;en - refp
+2635		1910		mmcdole
+73297		27678		Ben Zotto
+2413303		2806090		EpicPandaForce
+1835379		2058164		Cerbrus
+1066240		1065580		biesior
+714		551		Chris Hanson
+184883		62183		Andreas K&#246;berle
+5056		3504		George Mauer
+245706		88931		AndiDog
+515054		243097		0__
+722762		373239		Halcyon
+58088		23235		Tyler Carter
+151312		50713		CoolAJ86
+155137		51914		Martijn Courteaux
+128983		44033		hap497
+411632		179161		Mat&#237;as Fidemraizer
+46646		19782		user46646
+90308		32514		FogleBird
+6464308		8633322		Laurenz Albe
+1461050		1574065		davidgyoung
+785541		412463		Wladimir Palant
+147019		49383		Srikar Appalaraju
+797495		420026		Pedro Lobito
+306253		116839		drawnonward
+44984		19254		venkatachalam
+97385		34440		Jason Williams
+1620671		1777092		Philipp
+113794		39452		Rubens Farias
+844416		449564		MBo
+271475		100773		Chris Heald
+140185		47344		Manoj Govindan
+172588		57599		timdev
+1350899		1427805		mata
+485076		224911		sll
+476408		219480		J. Abrahamson
+122428		42065		jitter
+55774		22560		Frederik Gheysels
+4893		3393		sblundy
+1828879		2049613		Timothy Shields
+385478		163375		Graham Borland
+165495		55284		Casebash
+376728		158237		aaronasterling
+16007		8803		old_timer
+343955		138790		adarshr
+294949		111709		danh
+2792531		3321430		nhgrif
+12089		7070		emk
+94559		33705		smarx
+22224		11509		Tom Haigh
+165297		55219		Amarghosh
+233196		83094		Ike Walker
+62024		24397		Diego Mijelshon
+1505120		1630456		pnuts
+3032289		3637221		Luaan
+44765		19200		John Rasch
+742496		385386		onteria_
+9611		5846		shoosh
+110026		38356		Jaime
+467473		213854		Nicholas Carey
+287047		108077		Kyle
+1790		1340		Jason Bunting
+1966109		2227751		Imanou Petit
+1317935		1385852		Laurence
+1517578		1646035		Simon Whitehead
+116614		40248		mellamokb
+106435		37243		vikingosegundo
